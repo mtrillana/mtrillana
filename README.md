@@ -9,7 +9,7 @@
   * sub-subitem
   
 # Images
-![GitHub Logo](/images/logo.png)
+![Some Logo](https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TV_2015.png)
 
 # Links
 [GitHub](http://github.com)
@@ -26,7 +26,8 @@ function fancyAlert(arg) {
   }
 }
 ```
- * with indent by 4 spaces *
+* with indent by 4 spaces *
+ 
     function fancyAlert(arg) {
         if(arg) {
             $.facebox({div:'#foo'})
