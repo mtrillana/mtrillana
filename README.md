@@ -48,7 +48,5 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
-### Issue References
-#1
 mojombo#1
 mojombo/github-flavored-markdown#1
