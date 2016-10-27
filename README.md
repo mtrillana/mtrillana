@@ -1,6 +1,6 @@
 # mtrillana
 
-i) [Syntax Highlighting] (#syntax highlighting)
+i) [Syntax Highlighting] (#syntax-highlighting)
 
 # Description
  - just a sample repository
