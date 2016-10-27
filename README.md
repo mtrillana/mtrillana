@@ -1,6 +1,7 @@
 # mtrillana
 
 i) [Syntax Highlighting] (#syntax-highlighting)
+ii) [Wiki] (https://github.com/mtrillana/mtrillana/wiki)
 
 # Description
  - just a sample repository
