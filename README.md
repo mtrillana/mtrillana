@@ -1,6 +1,6 @@
 # mtrillana
 
-i) [Syntax Highlighting] (#Syntax Highlighting)
+i) [Syntax Highlighting] (#syntax highlighting)
 
 # Description
  - just a sample repository
@@ -20,8 +20,7 @@ i) [Syntax Highlighting] (#Syntax Highlighting)
 I think you should use an
 `<addr>` element here instead.
 
-Syntax Highlighting
--------------------
+# Syntax Highlighting
 
 ```javascript
 function fancyAlert(arg) {
